@@ -1,8 +1,8 @@
 BAAACCCOOONN
 Bread
-Milk
-Cheese
 Butter
+Cheese
 Cream
 Chicken
 Fish
+Milk
