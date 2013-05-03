@@ -4,3 +4,5 @@ Milk
 Cheese
 Butter
 Cream
+Chicken
+Fish
